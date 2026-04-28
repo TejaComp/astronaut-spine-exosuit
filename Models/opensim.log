@@ -1,0 +1,378 @@
+[2026-04-18 18:21:26.108] [info] Updating Model file from 40000 to latest format...
+[2026-04-18 18:21:26.261] [info] Loaded model 3DGaitModel2392 from file C:\SpineSimulation\Models\gait2392_simbody.osim
+[2026-04-18 18:27:49.391] [info] Updating Model file from 40000 to latest format...
+[2026-04-18 18:27:49.419] [info] Loaded model 3DGaitModel2392 from file C:\SpineSimulation\Models\gait2392_simbody.osim
+[2026-04-18 18:27:49.421] [warning] Couldn't find file 'treadmill.vtp'.
+[2026-04-18 18:27:49.421] [warning] Couldn't find file 'sacrum.vtp'.
+[2026-04-18 18:27:49.421] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-04-18 18:27:49.421] [warning] Couldn't find file 'l_pelvis.vtp'.
+[2026-04-18 18:27:49.422] [warning] Couldn't find file 'femur_r.vtp'.
+[2026-04-18 18:27:49.422] [warning] Couldn't find file 'tibia_r.vtp'.
+[2026-04-18 18:27:49.422] [warning] Couldn't find file 'fibula.vtp'.
+[2026-04-18 18:27:49.423] [warning] Couldn't find file 'talus.vtp'.
+[2026-04-18 18:27:49.424] [warning] Couldn't find file 'foot.vtp'.
+[2026-04-18 18:27:49.424] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-04-18 18:27:49.425] [warning] Couldn't find file 'femur_l.vtp'.
+[2026-04-18 18:27:49.425] [warning] Couldn't find file 'tibia_l.vtp'.
+[2026-04-18 18:27:49.426] [warning] Couldn't find file 'l_fibula.vtp'.
+[2026-04-18 18:27:49.426] [warning] Couldn't find file 'l_talus.vtp'.
+[2026-04-18 18:27:49.426] [warning] Couldn't find file 'l_foot.vtp'.
+[2026-04-18 18:27:49.427] [warning] Couldn't find file 'l_bofoot.vtp'.
+[2026-04-18 18:27:49.427] [warning] Couldn't find file 'hat_spine.vtp'.
+[2026-04-18 18:27:49.428] [warning] Couldn't find file 'hat_jaw.vtp'.
+[2026-04-18 18:27:49.429] [warning] Couldn't find file 'hat_skull.vtp'.
+[2026-04-18 18:27:49.432] [warning] Couldn't find file 'hat_ribs.vtp'.
+[2026-04-18 18:29:12.919] [info] Updating Model file from 40000 to latest format...
+[2026-04-18 18:29:12.942] [info] Loaded model 3DGaitModel2392 from file C:\SpineSimulation\Models\gait2392_simbody.osim
+[2026-04-18 18:29:12.944] [warning] Couldn't find file 'treadmill.vtp'.
+[2026-04-18 18:29:12.944] [warning] Couldn't find file 'sacrum.vtp'.
+[2026-04-18 18:29:12.946] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-04-18 18:29:12.946] [warning] Couldn't find file 'l_pelvis.vtp'.
+[2026-04-18 18:29:12.946] [warning] Couldn't find file 'femur_r.vtp'.
+[2026-04-18 18:29:12.947] [warning] Couldn't find file 'tibia_r.vtp'.
+[2026-04-18 18:29:12.947] [warning] Couldn't find file 'fibula.vtp'.
+[2026-04-18 18:29:12.947] [warning] Couldn't find file 'talus.vtp'.
+[2026-04-18 18:29:12.948] [warning] Couldn't find file 'foot.vtp'.
+[2026-04-18 18:29:12.948] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-04-18 18:29:12.949] [warning] Couldn't find file 'femur_l.vtp'.
+[2026-04-18 18:29:12.949] [warning] Couldn't find file 'tibia_l.vtp'.
+[2026-04-18 18:29:12.949] [warning] Couldn't find file 'l_fibula.vtp'.
+[2026-04-18 18:29:12.949] [warning] Couldn't find file 'l_talus.vtp'.
+[2026-04-18 18:29:12.950] [warning] Couldn't find file 'l_foot.vtp'.
+[2026-04-18 18:29:12.950] [warning] Couldn't find file 'l_bofoot.vtp'.
+[2026-04-18 18:29:12.951] [warning] Couldn't find file 'hat_spine.vtp'.
+[2026-04-18 18:29:12.951] [warning] Couldn't find file 'hat_jaw.vtp'.
+[2026-04-18 18:29:12.952] [warning] Couldn't find file 'hat_skull.vtp'.
+[2026-04-18 18:29:12.952] [warning] Couldn't find file 'hat_ribs.vtp'.
+[2026-04-18 18:30:40.164] [info] Updating Model file from 40000 to latest format...
+[2026-04-18 18:30:40.196] [info] Loaded model 3DGaitModel2392 from file C:\SpineSimulation\Models\gait2392_simbody.osim
+[2026-04-18 18:30:40.197] [warning] Couldn't find file 'treadmill.vtp'.
+[2026-04-18 18:30:40.201] [warning] Couldn't find file 'sacrum.vtp'.
+[2026-04-18 18:30:40.201] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-04-18 18:30:40.201] [warning] Couldn't find file 'l_pelvis.vtp'.
+[2026-04-18 18:30:40.202] [warning] Couldn't find file 'femur_r.vtp'.
+[2026-04-18 18:30:40.202] [warning] Couldn't find file 'tibia_r.vtp'.
+[2026-04-18 18:30:40.204] [warning] Couldn't find file 'fibula.vtp'.
+[2026-04-18 18:30:40.205] [warning] Couldn't find file 'talus.vtp'.
+[2026-04-18 18:30:40.211] [warning] Couldn't find file 'foot.vtp'.
+[2026-04-18 18:30:40.232] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-04-18 18:30:40.237] [warning] Couldn't find file 'femur_l.vtp'.
+[2026-04-18 18:30:40.246] [warning] Couldn't find file 'tibia_l.vtp'.
+[2026-04-18 18:30:40.252] [warning] Couldn't find file 'l_fibula.vtp'.
+[2026-04-18 18:30:40.252] [warning] Couldn't find file 'l_talus.vtp'.
+[2026-04-18 18:30:40.253] [warning] Couldn't find file 'l_foot.vtp'.
+[2026-04-18 18:30:40.256] [warning] Couldn't find file 'l_bofoot.vtp'.
+[2026-04-18 18:30:40.256] [warning] Couldn't find file 'hat_spine.vtp'.
+[2026-04-18 18:30:40.257] [warning] Couldn't find file 'hat_jaw.vtp'.
+[2026-04-18 18:30:40.260] [warning] Couldn't find file 'hat_skull.vtp'.
+[2026-04-18 18:30:40.265] [warning] Couldn't find file 'hat_ribs.vtp'.
+[2026-04-18 18:30:40.335] [info] Updating Model file from 40000 to latest format...
+[2026-04-18 18:30:40.360] [info] Loaded model 3DGaitModel2392 from file C:\SpineSimulation\Models\gait2392_simbody.osim
+[2026-04-18 18:30:40.361] [warning] Couldn't find file 'treadmill.vtp'.
+[2026-04-18 18:30:40.361] [warning] Couldn't find file 'sacrum.vtp'.
+[2026-04-18 18:30:40.362] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-04-18 18:30:40.363] [warning] Couldn't find file 'l_pelvis.vtp'.
+[2026-04-18 18:30:40.363] [warning] Couldn't find file 'femur_r.vtp'.
+[2026-04-18 18:30:40.363] [warning] Couldn't find file 'tibia_r.vtp'.
+[2026-04-18 18:30:40.364] [warning] Couldn't find file 'fibula.vtp'.
+[2026-04-18 18:30:40.364] [warning] Couldn't find file 'talus.vtp'.
+[2026-04-18 18:30:40.364] [warning] Couldn't find file 'foot.vtp'.
+[2026-04-18 18:30:40.364] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-04-18 18:30:40.365] [warning] Couldn't find file 'femur_l.vtp'.
+[2026-04-18 18:30:40.365] [warning] Couldn't find file 'tibia_l.vtp'.
+[2026-04-18 18:30:40.366] [warning] Couldn't find file 'l_fibula.vtp'.
+[2026-04-18 18:30:40.366] [warning] Couldn't find file 'l_talus.vtp'.
+[2026-04-18 18:30:40.366] [warning] Couldn't find file 'l_foot.vtp'.
+[2026-04-18 18:30:40.367] [warning] Couldn't find file 'l_bofoot.vtp'.
+[2026-04-18 18:30:40.367] [warning] Couldn't find file 'hat_spine.vtp'.
+[2026-04-18 18:30:40.367] [warning] Couldn't find file 'hat_jaw.vtp'.
+[2026-04-18 18:30:40.367] [warning] Couldn't find file 'hat_skull.vtp'.
+[2026-04-18 18:30:40.368] [warning] Couldn't find file 'hat_ribs.vtp'.
+[2026-04-18 18:30:40.422] [info] Updating Model file from 40000 to latest format...
+[2026-04-18 18:30:40.443] [info] Loaded model 3DGaitModel2392 from file C:\SpineSimulation\Models\gait2392_simbody.osim
+[2026-04-18 18:30:40.444] [warning] Couldn't find file 'treadmill.vtp'.
+[2026-04-18 18:30:40.444] [warning] Couldn't find file 'sacrum.vtp'.
+[2026-04-18 18:30:40.446] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-04-18 18:30:40.446] [warning] Couldn't find file 'l_pelvis.vtp'.
+[2026-04-18 18:30:40.446] [warning] Couldn't find file 'femur_r.vtp'.
+[2026-04-18 18:30:40.447] [warning] Couldn't find file 'tibia_r.vtp'.
+[2026-04-18 18:30:40.447] [warning] Couldn't find file 'fibula.vtp'.
+[2026-04-18 18:30:40.447] [warning] Couldn't find file 'talus.vtp'.
+[2026-04-18 18:30:40.448] [warning] Couldn't find file 'foot.vtp'.
+[2026-04-18 18:30:40.448] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-04-18 18:30:40.449] [warning] Couldn't find file 'femur_l.vtp'.
+[2026-04-18 18:30:40.449] [warning] Couldn't find file 'tibia_l.vtp'.
+[2026-04-18 18:30:40.449] [warning] Couldn't find file 'l_fibula.vtp'.
+[2026-04-18 18:30:40.450] [warning] Couldn't find file 'l_talus.vtp'.
+[2026-04-18 18:30:40.450] [warning] Couldn't find file 'l_foot.vtp'.
+[2026-04-18 18:30:40.452] [warning] Couldn't find file 'l_bofoot.vtp'.
+[2026-04-18 18:30:40.452] [warning] Couldn't find file 'hat_spine.vtp'.
+[2026-04-18 18:30:40.452] [warning] Couldn't find file 'hat_jaw.vtp'.
+[2026-04-18 18:30:40.453] [warning] Couldn't find file 'hat_skull.vtp'.
+[2026-04-18 18:30:40.455] [warning] Couldn't find file 'hat_ribs.vtp'.
+[2026-04-18 18:30:40.506] [info] Updating Model file from 40000 to latest format...
+[2026-04-18 18:30:40.530] [info] Loaded model 3DGaitModel2392 from file C:\SpineSimulation\Models\gait2392_simbody.osim
+[2026-04-18 18:30:40.531] [warning] Couldn't find file 'treadmill.vtp'.
+[2026-04-18 18:30:40.532] [warning] Couldn't find file 'sacrum.vtp'.
+[2026-04-18 18:30:40.534] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-04-18 18:30:40.534] [warning] Couldn't find file 'l_pelvis.vtp'.
+[2026-04-18 18:30:40.535] [warning] Couldn't find file 'femur_r.vtp'.
+[2026-04-18 18:30:40.535] [warning] Couldn't find file 'tibia_r.vtp'.
+[2026-04-18 18:30:40.536] [warning] Couldn't find file 'fibula.vtp'.
+[2026-04-18 18:30:40.536] [warning] Couldn't find file 'talus.vtp'.
+[2026-04-18 18:30:40.536] [warning] Couldn't find file 'foot.vtp'.
+[2026-04-18 18:30:40.537] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-04-18 18:30:40.538] [warning] Couldn't find file 'femur_l.vtp'.
+[2026-04-18 18:30:40.538] [warning] Couldn't find file 'tibia_l.vtp'.
+[2026-04-18 18:30:40.538] [warning] Couldn't find file 'l_fibula.vtp'.
+[2026-04-18 18:30:40.539] [warning] Couldn't find file 'l_talus.vtp'.
+[2026-04-18 18:30:40.539] [warning] Couldn't find file 'l_foot.vtp'.
+[2026-04-18 18:30:40.539] [warning] Couldn't find file 'l_bofoot.vtp'.
+[2026-04-18 18:30:40.540] [warning] Couldn't find file 'hat_spine.vtp'.
+[2026-04-18 18:30:40.540] [warning] Couldn't find file 'hat_jaw.vtp'.
+[2026-04-18 18:30:40.540] [warning] Couldn't find file 'hat_skull.vtp'.
+[2026-04-18 18:30:40.542] [warning] Couldn't find file 'hat_ribs.vtp'.
+[2026-04-18 18:30:40.593] [info] Updating Model file from 40000 to latest format...
+[2026-04-18 18:30:40.615] [info] Loaded model 3DGaitModel2392 from file C:\SpineSimulation\Models\gait2392_simbody.osim
+[2026-04-18 18:30:40.615] [warning] Couldn't find file 'treadmill.vtp'.
+[2026-04-18 18:30:40.617] [warning] Couldn't find file 'sacrum.vtp'.
+[2026-04-18 18:30:40.617] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-04-18 18:30:40.618] [warning] Couldn't find file 'l_pelvis.vtp'.
+[2026-04-18 18:30:40.619] [warning] Couldn't find file 'femur_r.vtp'.
+[2026-04-18 18:30:40.619] [warning] Couldn't find file 'tibia_r.vtp'.
+[2026-04-18 18:30:40.619] [warning] Couldn't find file 'fibula.vtp'.
+[2026-04-18 18:30:40.620] [warning] Couldn't find file 'talus.vtp'.
+[2026-04-18 18:30:40.620] [warning] Couldn't find file 'foot.vtp'.
+[2026-04-18 18:30:40.621] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-04-18 18:30:40.621] [warning] Couldn't find file 'femur_l.vtp'.
+[2026-04-18 18:30:40.622] [warning] Couldn't find file 'tibia_l.vtp'.
+[2026-04-18 18:30:40.622] [warning] Couldn't find file 'l_fibula.vtp'.
+[2026-04-18 18:30:40.622] [warning] Couldn't find file 'l_talus.vtp'.
+[2026-04-18 18:30:40.623] [warning] Couldn't find file 'l_foot.vtp'.
+[2026-04-18 18:30:40.623] [warning] Couldn't find file 'l_bofoot.vtp'.
+[2026-04-18 18:30:40.623] [warning] Couldn't find file 'hat_spine.vtp'.
+[2026-04-18 18:30:40.624] [warning] Couldn't find file 'hat_jaw.vtp'.
+[2026-04-18 18:30:40.624] [warning] Couldn't find file 'hat_skull.vtp'.
+[2026-04-18 18:30:40.624] [warning] Couldn't find file 'hat_ribs.vtp'.
+[2026-04-21 08:53:15.298] [info] Loaded model astronaut_spine_day030 from file C:\SpineSimulation\Models\spine_day030.osim
+[2026-04-21 08:53:34.705] [info] Loaded model astronaut_spine_day180 from file C:\SpineSimulation\Models\spine_day180.osim
+[2026-04-28 21:49:35.532] [info] Updating Model file from 40000 to latest format...
+[2026-04-28 21:49:35.567] [info] Loaded model 3DGaitModel2392 from file C:\SpineSimulation\Models\gait2392_simbody.osim
+[2026-04-28 21:49:35.571] [warning] Couldn't find file 'treadmill.vtp'.
+[2026-04-28 21:49:35.571] [warning] Couldn't find file 'sacrum.vtp'.
+[2026-04-28 21:49:35.572] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-04-28 21:49:35.572] [warning] Couldn't find file 'l_pelvis.vtp'.
+[2026-04-28 21:49:35.572] [warning] Couldn't find file 'femur_r.vtp'.
+[2026-04-28 21:49:35.572] [warning] Couldn't find file 'tibia_r.vtp'.
+[2026-04-28 21:49:35.572] [warning] Couldn't find file 'fibula.vtp'.
+[2026-04-28 21:49:35.573] [warning] Couldn't find file 'talus.vtp'.
+[2026-04-28 21:49:35.573] [warning] Couldn't find file 'foot.vtp'.
+[2026-04-28 21:49:35.573] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-04-28 21:49:35.573] [warning] Couldn't find file 'femur_l.vtp'.
+[2026-04-28 21:49:35.573] [warning] Couldn't find file 'tibia_l.vtp'.
+[2026-04-28 21:49:35.574] [warning] Couldn't find file 'l_fibula.vtp'.
+[2026-04-28 21:49:35.574] [warning] Couldn't find file 'l_talus.vtp'.
+[2026-04-28 21:49:35.574] [warning] Couldn't find file 'l_foot.vtp'.
+[2026-04-28 21:49:35.574] [warning] Couldn't find file 'l_bofoot.vtp'.
+[2026-04-28 21:49:35.574] [warning] Couldn't find file 'hat_spine.vtp'.
+[2026-04-28 21:49:35.575] [warning] Couldn't find file 'hat_jaw.vtp'.
+[2026-04-28 21:49:35.575] [warning] Couldn't find file 'hat_skull.vtp'.
+[2026-04-28 21:49:35.575] [warning] Couldn't find file 'hat_ribs.vtp'.
+[2026-04-28 21:49:35.652] [info] Updating Model file from 40000 to latest format...
+[2026-04-28 21:49:35.683] [info] Loaded model 3DGaitModel2392 from file C:\SpineSimulation\Models\gait2392_simbody.osim
+[2026-04-28 21:49:35.684] [warning] Couldn't find file 'treadmill.vtp'.
+[2026-04-28 21:49:35.685] [warning] Couldn't find file 'sacrum.vtp'.
+[2026-04-28 21:49:35.687] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-04-28 21:49:35.687] [warning] Couldn't find file 'l_pelvis.vtp'.
+[2026-04-28 21:49:35.687] [warning] Couldn't find file 'femur_r.vtp'.
+[2026-04-28 21:49:35.689] [warning] Couldn't find file 'tibia_r.vtp'.
+[2026-04-28 21:49:35.689] [warning] Couldn't find file 'fibula.vtp'.
+[2026-04-28 21:49:35.689] [warning] Couldn't find file 'talus.vtp'.
+[2026-04-28 21:49:35.689] [warning] Couldn't find file 'foot.vtp'.
+[2026-04-28 21:49:35.690] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-04-28 21:49:35.690] [warning] Couldn't find file 'femur_l.vtp'.
+[2026-04-28 21:49:35.691] [warning] Couldn't find file 'tibia_l.vtp'.
+[2026-04-28 21:49:35.691] [warning] Couldn't find file 'l_fibula.vtp'.
+[2026-04-28 21:49:35.693] [warning] Couldn't find file 'l_talus.vtp'.
+[2026-04-28 21:49:35.694] [warning] Couldn't find file 'l_foot.vtp'.
+[2026-04-28 21:49:35.694] [warning] Couldn't find file 'l_bofoot.vtp'.
+[2026-04-28 21:49:35.694] [warning] Couldn't find file 'hat_spine.vtp'.
+[2026-04-28 21:49:35.695] [warning] Couldn't find file 'hat_jaw.vtp'.
+[2026-04-28 21:49:35.696] [warning] Couldn't find file 'hat_skull.vtp'.
+[2026-04-28 21:49:35.696] [warning] Couldn't find file 'hat_ribs.vtp'.
+[2026-04-28 21:49:35.755] [info] Updating Model file from 40000 to latest format...
+[2026-04-28 21:49:35.777] [info] Loaded model 3DGaitModel2392 from file C:\SpineSimulation\Models\gait2392_simbody.osim
+[2026-04-28 21:49:35.778] [warning] Couldn't find file 'treadmill.vtp'.
+[2026-04-28 21:49:35.779] [warning] Couldn't find file 'sacrum.vtp'.
+[2026-04-28 21:49:35.779] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-04-28 21:49:35.779] [warning] Couldn't find file 'l_pelvis.vtp'.
+[2026-04-28 21:49:35.780] [warning] Couldn't find file 'femur_r.vtp'.
+[2026-04-28 21:49:35.780] [warning] Couldn't find file 'tibia_r.vtp'.
+[2026-04-28 21:49:35.780] [warning] Couldn't find file 'fibula.vtp'.
+[2026-04-28 21:49:35.781] [warning] Couldn't find file 'talus.vtp'.
+[2026-04-28 21:49:35.781] [warning] Couldn't find file 'foot.vtp'.
+[2026-04-28 21:49:35.781] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-04-28 21:49:35.781] [warning] Couldn't find file 'femur_l.vtp'.
+[2026-04-28 21:49:35.782] [warning] Couldn't find file 'tibia_l.vtp'.
+[2026-04-28 21:49:35.782] [warning] Couldn't find file 'l_fibula.vtp'.
+[2026-04-28 21:49:35.782] [warning] Couldn't find file 'l_talus.vtp'.
+[2026-04-28 21:49:35.783] [warning] Couldn't find file 'l_foot.vtp'.
+[2026-04-28 21:49:35.783] [warning] Couldn't find file 'l_bofoot.vtp'.
+[2026-04-28 21:49:35.784] [warning] Couldn't find file 'hat_spine.vtp'.
+[2026-04-28 21:49:35.786] [warning] Couldn't find file 'hat_jaw.vtp'.
+[2026-04-28 21:49:35.786] [warning] Couldn't find file 'hat_skull.vtp'.
+[2026-04-28 21:49:35.787] [warning] Couldn't find file 'hat_ribs.vtp'.
+[2026-04-28 21:49:35.842] [info] Updating Model file from 40000 to latest format...
+[2026-04-28 21:49:35.864] [info] Loaded model 3DGaitModel2392 from file C:\SpineSimulation\Models\gait2392_simbody.osim
+[2026-04-28 21:49:35.865] [warning] Couldn't find file 'treadmill.vtp'.
+[2026-04-28 21:49:35.866] [warning] Couldn't find file 'sacrum.vtp'.
+[2026-04-28 21:49:35.867] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-04-28 21:49:35.867] [warning] Couldn't find file 'l_pelvis.vtp'.
+[2026-04-28 21:49:35.868] [warning] Couldn't find file 'femur_r.vtp'.
+[2026-04-28 21:49:35.868] [warning] Couldn't find file 'tibia_r.vtp'.
+[2026-04-28 21:49:35.869] [warning] Couldn't find file 'fibula.vtp'.
+[2026-04-28 21:49:35.869] [warning] Couldn't find file 'talus.vtp'.
+[2026-04-28 21:49:35.869] [warning] Couldn't find file 'foot.vtp'.
+[2026-04-28 21:49:35.870] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-04-28 21:49:35.870] [warning] Couldn't find file 'femur_l.vtp'.
+[2026-04-28 21:49:35.871] [warning] Couldn't find file 'tibia_l.vtp'.
+[2026-04-28 21:49:35.871] [warning] Couldn't find file 'l_fibula.vtp'.
+[2026-04-28 21:49:35.871] [warning] Couldn't find file 'l_talus.vtp'.
+[2026-04-28 21:49:35.871] [warning] Couldn't find file 'l_foot.vtp'.
+[2026-04-28 21:49:35.872] [warning] Couldn't find file 'l_bofoot.vtp'.
+[2026-04-28 21:49:35.872] [warning] Couldn't find file 'hat_spine.vtp'.
+[2026-04-28 21:49:35.872] [warning] Couldn't find file 'hat_jaw.vtp'.
+[2026-04-28 21:49:35.873] [warning] Couldn't find file 'hat_skull.vtp'.
+[2026-04-28 21:49:35.873] [warning] Couldn't find file 'hat_ribs.vtp'.
+[2026-04-28 21:49:35.926] [info] Updating Model file from 40000 to latest format...
+[2026-04-28 21:49:35.948] [info] Loaded model 3DGaitModel2392 from file C:\SpineSimulation\Models\gait2392_simbody.osim
+[2026-04-28 21:49:35.949] [warning] Couldn't find file 'treadmill.vtp'.
+[2026-04-28 21:49:35.950] [warning] Couldn't find file 'sacrum.vtp'.
+[2026-04-28 21:49:35.950] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-04-28 21:49:35.950] [warning] Couldn't find file 'l_pelvis.vtp'.
+[2026-04-28 21:49:35.951] [warning] Couldn't find file 'femur_r.vtp'.
+[2026-04-28 21:49:35.951] [warning] Couldn't find file 'tibia_r.vtp'.
+[2026-04-28 21:49:35.951] [warning] Couldn't find file 'fibula.vtp'.
+[2026-04-28 21:49:35.952] [warning] Couldn't find file 'talus.vtp'.
+[2026-04-28 21:49:35.952] [warning] Couldn't find file 'foot.vtp'.
+[2026-04-28 21:49:35.953] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-04-28 21:49:35.953] [warning] Couldn't find file 'femur_l.vtp'.
+[2026-04-28 21:49:35.953] [warning] Couldn't find file 'tibia_l.vtp'.
+[2026-04-28 21:49:35.954] [warning] Couldn't find file 'l_fibula.vtp'.
+[2026-04-28 21:49:35.954] [warning] Couldn't find file 'l_talus.vtp'.
+[2026-04-28 21:49:35.954] [warning] Couldn't find file 'l_foot.vtp'.
+[2026-04-28 21:49:35.958] [warning] Couldn't find file 'l_bofoot.vtp'.
+[2026-04-28 21:49:35.959] [warning] Couldn't find file 'hat_spine.vtp'.
+[2026-04-28 21:49:35.960] [warning] Couldn't find file 'hat_jaw.vtp'.
+[2026-04-28 21:49:35.960] [warning] Couldn't find file 'hat_skull.vtp'.
+[2026-04-28 21:49:35.960] [warning] Couldn't find file 'hat_ribs.vtp'.
+[2026-04-28 21:53:37.098] [info] Updating Model file from 40000 to latest format...
+[2026-04-28 21:53:37.123] [info] Loaded model 3DGaitModel2392 from file C:\SpineSimulation\Models\gait2392_simbody.osim
+[2026-04-28 21:53:37.124] [warning] Couldn't find file 'treadmill.vtp'.
+[2026-04-28 21:53:37.125] [warning] Couldn't find file 'sacrum.vtp'.
+[2026-04-28 21:53:37.125] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-04-28 21:53:37.125] [warning] Couldn't find file 'l_pelvis.vtp'.
+[2026-04-28 21:53:37.125] [warning] Couldn't find file 'femur_r.vtp'.
+[2026-04-28 21:53:37.126] [warning] Couldn't find file 'tibia_r.vtp'.
+[2026-04-28 21:53:37.126] [warning] Couldn't find file 'fibula.vtp'.
+[2026-04-28 21:53:37.126] [warning] Couldn't find file 'talus.vtp'.
+[2026-04-28 21:53:37.126] [warning] Couldn't find file 'foot.vtp'.
+[2026-04-28 21:53:37.126] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-04-28 21:53:37.127] [warning] Couldn't find file 'femur_l.vtp'.
+[2026-04-28 21:53:37.127] [warning] Couldn't find file 'tibia_l.vtp'.
+[2026-04-28 21:53:37.127] [warning] Couldn't find file 'l_fibula.vtp'.
+[2026-04-28 21:53:37.127] [warning] Couldn't find file 'l_talus.vtp'.
+[2026-04-28 21:53:37.127] [warning] Couldn't find file 'l_foot.vtp'.
+[2026-04-28 21:53:37.128] [warning] Couldn't find file 'l_bofoot.vtp'.
+[2026-04-28 21:53:37.128] [warning] Couldn't find file 'hat_spine.vtp'.
+[2026-04-28 21:53:37.128] [warning] Couldn't find file 'hat_jaw.vtp'.
+[2026-04-28 21:53:37.128] [warning] Couldn't find file 'hat_skull.vtp'.
+[2026-04-28 21:53:37.128] [warning] Couldn't find file 'hat_ribs.vtp'.
+[2026-04-28 21:53:37.185] [info] Updating Model file from 40000 to latest format...
+[2026-04-28 21:53:37.209] [info] Loaded model 3DGaitModel2392 from file C:\SpineSimulation\Models\gait2392_simbody.osim
+[2026-04-28 21:53:37.210] [warning] Couldn't find file 'treadmill.vtp'.
+[2026-04-28 21:53:37.210] [warning] Couldn't find file 'sacrum.vtp'.
+[2026-04-28 21:53:37.212] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-04-28 21:53:37.212] [warning] Couldn't find file 'l_pelvis.vtp'.
+[2026-04-28 21:53:37.212] [warning] Couldn't find file 'femur_r.vtp'.
+[2026-04-28 21:53:37.216] [warning] Couldn't find file 'tibia_r.vtp'.
+[2026-04-28 21:53:37.217] [warning] Couldn't find file 'fibula.vtp'.
+[2026-04-28 21:53:37.217] [warning] Couldn't find file 'talus.vtp'.
+[2026-04-28 21:53:37.218] [warning] Couldn't find file 'foot.vtp'.
+[2026-04-28 21:53:37.218] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-04-28 21:53:37.218] [warning] Couldn't find file 'femur_l.vtp'.
+[2026-04-28 21:53:37.219] [warning] Couldn't find file 'tibia_l.vtp'.
+[2026-04-28 21:53:37.219] [warning] Couldn't find file 'l_fibula.vtp'.
+[2026-04-28 21:53:37.220] [warning] Couldn't find file 'l_talus.vtp'.
+[2026-04-28 21:53:37.220] [warning] Couldn't find file 'l_foot.vtp'.
+[2026-04-28 21:53:37.220] [warning] Couldn't find file 'l_bofoot.vtp'.
+[2026-04-28 21:53:37.221] [warning] Couldn't find file 'hat_spine.vtp'.
+[2026-04-28 21:53:37.221] [warning] Couldn't find file 'hat_jaw.vtp'.
+[2026-04-28 21:53:37.222] [warning] Couldn't find file 'hat_skull.vtp'.
+[2026-04-28 21:53:37.222] [warning] Couldn't find file 'hat_ribs.vtp'.
+[2026-04-28 21:53:37.280] [info] Updating Model file from 40000 to latest format...
+[2026-04-28 21:53:37.302] [info] Loaded model 3DGaitModel2392 from file C:\SpineSimulation\Models\gait2392_simbody.osim
+[2026-04-28 21:53:37.303] [warning] Couldn't find file 'treadmill.vtp'.
+[2026-04-28 21:53:37.304] [warning] Couldn't find file 'sacrum.vtp'.
+[2026-04-28 21:53:37.304] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-04-28 21:53:37.305] [warning] Couldn't find file 'l_pelvis.vtp'.
+[2026-04-28 21:53:37.305] [warning] Couldn't find file 'femur_r.vtp'.
+[2026-04-28 21:53:37.308] [warning] Couldn't find file 'tibia_r.vtp'.
+[2026-04-28 21:53:37.309] [warning] Couldn't find file 'fibula.vtp'.
+[2026-04-28 21:53:37.310] [warning] Couldn't find file 'talus.vtp'.
+[2026-04-28 21:53:37.310] [warning] Couldn't find file 'foot.vtp'.
+[2026-04-28 21:53:37.311] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-04-28 21:53:37.311] [warning] Couldn't find file 'femur_l.vtp'.
+[2026-04-28 21:53:37.311] [warning] Couldn't find file 'tibia_l.vtp'.
+[2026-04-28 21:53:37.312] [warning] Couldn't find file 'l_fibula.vtp'.
+[2026-04-28 21:53:37.312] [warning] Couldn't find file 'l_talus.vtp'.
+[2026-04-28 21:53:37.312] [warning] Couldn't find file 'l_foot.vtp'.
+[2026-04-28 21:53:37.313] [warning] Couldn't find file 'l_bofoot.vtp'.
+[2026-04-28 21:53:37.314] [warning] Couldn't find file 'hat_spine.vtp'.
+[2026-04-28 21:53:37.314] [warning] Couldn't find file 'hat_jaw.vtp'.
+[2026-04-28 21:53:37.315] [warning] Couldn't find file 'hat_skull.vtp'.
+[2026-04-28 21:53:37.315] [warning] Couldn't find file 'hat_ribs.vtp'.
+[2026-04-28 21:53:37.366] [info] Updating Model file from 40000 to latest format...
+[2026-04-28 21:53:37.389] [info] Loaded model 3DGaitModel2392 from file C:\SpineSimulation\Models\gait2392_simbody.osim
+[2026-04-28 21:53:37.390] [warning] Couldn't find file 'treadmill.vtp'.
+[2026-04-28 21:53:37.391] [warning] Couldn't find file 'sacrum.vtp'.
+[2026-04-28 21:53:37.392] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-04-28 21:53:37.393] [warning] Couldn't find file 'l_pelvis.vtp'.
+[2026-04-28 21:53:37.394] [warning] Couldn't find file 'femur_r.vtp'.
+[2026-04-28 21:53:37.394] [warning] Couldn't find file 'tibia_r.vtp'.
+[2026-04-28 21:53:37.394] [warning] Couldn't find file 'fibula.vtp'.
+[2026-04-28 21:53:37.395] [warning] Couldn't find file 'talus.vtp'.
+[2026-04-28 21:53:37.395] [warning] Couldn't find file 'foot.vtp'.
+[2026-04-28 21:53:37.396] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-04-28 21:53:37.397] [warning] Couldn't find file 'femur_l.vtp'.
+[2026-04-28 21:53:37.397] [warning] Couldn't find file 'tibia_l.vtp'.
+[2026-04-28 21:53:37.397] [warning] Couldn't find file 'l_fibula.vtp'.
+[2026-04-28 21:53:37.398] [warning] Couldn't find file 'l_talus.vtp'.
+[2026-04-28 21:53:37.398] [warning] Couldn't find file 'l_foot.vtp'.
+[2026-04-28 21:53:37.399] [warning] Couldn't find file 'l_bofoot.vtp'.
+[2026-04-28 21:53:37.399] [warning] Couldn't find file 'hat_spine.vtp'.
+[2026-04-28 21:53:37.399] [warning] Couldn't find file 'hat_jaw.vtp'.
+[2026-04-28 21:53:37.400] [warning] Couldn't find file 'hat_skull.vtp'.
+[2026-04-28 21:53:37.401] [warning] Couldn't find file 'hat_ribs.vtp'.
+[2026-04-28 21:53:37.458] [info] Updating Model file from 40000 to latest format...
+[2026-04-28 21:53:37.480] [info] Loaded model 3DGaitModel2392 from file C:\SpineSimulation\Models\gait2392_simbody.osim
+[2026-04-28 21:53:37.481] [warning] Couldn't find file 'treadmill.vtp'.
+[2026-04-28 21:53:37.483] [warning] Couldn't find file 'sacrum.vtp'.
+[2026-04-28 21:53:37.484] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-04-28 21:53:37.485] [warning] Couldn't find file 'l_pelvis.vtp'.
+[2026-04-28 21:53:37.485] [warning] Couldn't find file 'femur_r.vtp'.
+[2026-04-28 21:53:37.486] [warning] Couldn't find file 'tibia_r.vtp'.
+[2026-04-28 21:53:37.486] [warning] Couldn't find file 'fibula.vtp'.
+[2026-04-28 21:53:37.487] [warning] Couldn't find file 'talus.vtp'.
+[2026-04-28 21:53:37.487] [warning] Couldn't find file 'foot.vtp'.
+[2026-04-28 21:53:37.487] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-04-28 21:53:37.488] [warning] Couldn't find file 'femur_l.vtp'.
+[2026-04-28 21:53:37.488] [warning] Couldn't find file 'tibia_l.vtp'.
+[2026-04-28 21:53:37.489] [warning] Couldn't find file 'l_fibula.vtp'.
+[2026-04-28 21:53:37.489] [warning] Couldn't find file 'l_talus.vtp'.
+[2026-04-28 21:53:37.489] [warning] Couldn't find file 'l_foot.vtp'.
+[2026-04-28 21:53:37.490] [warning] Couldn't find file 'l_bofoot.vtp'.
+[2026-04-28 21:53:37.490] [warning] Couldn't find file 'hat_spine.vtp'.
+[2026-04-28 21:53:37.491] [warning] Couldn't find file 'hat_jaw.vtp'.
+[2026-04-28 21:53:37.491] [warning] Couldn't find file 'hat_skull.vtp'.
+[2026-04-28 21:53:37.491] [warning] Couldn't find file 'hat_ribs.vtp'.
